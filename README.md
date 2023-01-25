@@ -1,3 +1,3 @@
 # startup
-Push Comwhoaaamit
+Push Resolved, yay
 This is the Pull test
