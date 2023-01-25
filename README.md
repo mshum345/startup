@@ -1,3 +1,3 @@
 # startup
-Push noooo, yay
+Second Merge Resolution
 This is the Pull test
