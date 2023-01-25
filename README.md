@@ -1,3 +1,3 @@
 # startup
-Push Resolved, yay
+Push noooo, yay
 This is the Pull test
