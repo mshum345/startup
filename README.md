@@ -10,3 +10,7 @@ Keeping track of your Minecraft resources can be tiresome and confusing. Resourc
 - Search bar for resource database
 
 ![sc](sc.png)
+
+# connection information
+- SSH: ssh -i [key pair file path] ubuntu@[ip address]
+- Elastic public ip: 3.19.116.52
