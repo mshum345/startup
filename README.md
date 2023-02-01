@@ -12,6 +12,6 @@ Keeping track of your Minecraft resources can be tiresome and confusing. Resourc
 ![sc](sc.png)
 
 # connection information
-- SSH: ssh -i [key pair file path] ubuntu@[ip address]
+- SSH: ssh -i [key pair file path] ubuntu@3.19.116.52
 - Elastic public ip: 3.19.116.52
 - Domain Name: 260startupapp.click
