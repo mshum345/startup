@@ -22,3 +22,4 @@ Keeping track of your Minecraft resources can be tiresome and confusing. Resourc
 - Fivicons can be added to an HTML document without the use of CSS
 - Default language can be applied at the beginning of an HTML document
 - SVG can be used to make fairly complex designs
+- Endpoint for simon game is simon.260startupapp.click
