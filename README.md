@@ -18,7 +18,7 @@ Keeping track of your Minecraft resources can be tiresome and confusing. Resourc
 - Domain Name: 260startupapp.click
 
 # Things Learned From Simon HTML Section
-- When CSS is not available, HTML can be styled using old HTML tags such as: <hr /> and <br />
+- When CSS is not available, HTML can be styled using old HTML tags such as: `<hr />` and `<br />`
 - Fivicons can be added to an HTML document without the use of CSS
 - Default language can be applied at the beginning of an HTML document
 - SVG can be used to make fairly complex designs
