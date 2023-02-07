@@ -13,5 +13,6 @@ Keeping track of your Minecraft resources can be tiresome and confusing. Resourc
 
 # connection information
 - SSH: ssh -i [key pair file path] ubuntu@3.19.116.52
+ - NOTE: when using key pair file, store the key in the root directory of the WSL linux file system. Only there can you use chmod
 - Elastic public ip: 3.19.116.52
 - Domain Name: 260startupapp.click
