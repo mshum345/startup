@@ -31,3 +31,4 @@ Keeping track of your Minecraft resources can be tiresome and confusing. Resourc
       integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
       crossorigin="anonymous"
     />`
+- Link to style sheet like this: `<link rel="stylesheet" href="main.css" />`
