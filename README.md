@@ -23,3 +23,11 @@ Keeping track of your Minecraft resources can be tiresome and confusing. Resourc
 - Default language can be applied at the beginning of an HTML document
 - SVG can be used to make fairly complex designs
 - Endpoint for simon game is simon.260startupapp.click
+
+# Things Learned From Simon CSS Section
+- Link to bootstrap framework like this: `<link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />`
