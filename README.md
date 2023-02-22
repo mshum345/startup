@@ -1,13 +1,11 @@
 # Startup
-Keeping track of your Minecraft resources can be tiresome and confusing. Resources stored in your chests in game can only be viewed one chest at a time and it is difficult to know exactly what resources you have available to you when planning out something to build. With this new application you will be able to track every resource you have and view them all in one application. This will greatly decrease confusing and unnecessary planning time when playing Minecraft.
+Creating a fantasy world can be a daunting task whether it be for a game or for a book or whatever the reasons are. This task can be much more fun when you see your world come to life on a website. With this application you can view a map of a land called Keshar and learn more about cities and locations on the map. You can also add your own new entries into the database.
 # Key Features
-- Input field for new resource
-- Search bar for input new resource field
-- List of project/build ideas
-- List of all resources
-- List of just blocks
-- List of just items
-- Search bar for resource database
+- Large map of Keshar
+- Drop-down menu of different places to learn about
+- Descriptions and pictures detailing different locations
+- Input available to add locations to the database
+- Notes available
 
 ![sc](sc.png)
 
@@ -32,3 +30,7 @@ Keeping track of your Minecraft resources can be tiresome and confusing. Resourc
       crossorigin="anonymous"
     />`
 - Link to style sheet like this: `<link rel="stylesheet" href="main.css" />`
+
+# Things learned from the HTML and CSS startup deliverable
+- drop-down menus can be created by using the element `<select>`
+- multiple options can be added to a dropdown menu by using the element `<option>`
