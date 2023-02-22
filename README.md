@@ -7,7 +7,7 @@ Creating a fantasy world can be a daunting task whether it be for a game or for 
 - Input available to add locations to the database
 - Notes available
 
-![sc](sc.png)
+![sc](plan.png)
 
 # Connection Information
 - SSH: ssh -i [key pair file path] ubuntu@3.19.116.52
