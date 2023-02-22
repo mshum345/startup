@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<title>Map of Keshar</title>
+	<!-- Link to CSS File -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<!-- Link to JS File -->
+	<script src="js/script.js"></script>
+</head>
+<body>
+	<div class="container">
+
+		<!-- General Info Section -->
+		<div class="general-info-section">
+			<h2>General Info</h2>
+			<form>
+				<label for="locations">Locations:</label>
+				<select id="locations" onchange="readInfo(this.value);">
+					
+						
+				</select>
+			</form>
+			<p class="display-info" id="display-info">
+				
+			</p>
+		</div>
+
+		<!-- Map Section -->
+		<div class="map-section">
+			<img src="map-image.jpeg" alt="Map of Keshar">
+		</div>
+
+	</div>
+</body>
+</html>
