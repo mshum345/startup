@@ -34,3 +34,7 @@ Creating a fantasy world can be a daunting task whether it be for a game or for 
 # Things learned from the HTML and CSS startup deliverable
 - drop-down menus can be created by using the element `<select>`
 - multiple options can be added to a dropdown menu by using the element `<option>`
+
+# Things learned from the Simon JS Section
+- Access HTML elements through the DOM
+- It is easy to access HTML elements if you have given them a specific id or class
