@@ -45,3 +45,199 @@ genInfo["a-the-trench"] = "Lorem Ipsum";
 genInfo["a-untammed-plains"] = "Lorem Ipsum";
 genInfo["a-wendengald"] = "Lorem Ipsum";
 genInfo["a-wyrm-peak"] = "Lorem Ipsum";
+
+function readInfo(inValue) {
+    let infoStr = "";
+
+    switch(inValue) {
+        case "select":
+          infoStr = "";
+          break;
+          
+        case "aisimeer":
+          infoStr = genInfo["a-aisimeer"];
+          break;
+
+        case "arendel-castle":
+          infoStr = genInfo["a-arendel-castle"];
+          break;
+
+        case "arwind":
+          infoStr = genInfo["a-arwind"];
+          break;
+
+        case "bal-mordal":
+          infoStr = genInfo["a-bal-mordal"];
+          break;
+        
+        case "barfire":
+          infoStr = genInfo["a-barfire"] + "<img src=\"./images/Barfire.png\" alt=\"Barfire Daytime\">";
+          break;
+
+        case "black-city":
+          infoStr = genInfo["a-black-city"];
+          break;
+
+        case "bokk":
+          infoStr = genInfo["a-bokk"];
+          break;
+
+        case "centelcius":
+          infoStr = genInfo["a-centelcius"];
+          break;
+
+        case "charr-lake":
+          infoStr = genInfo["a-charr-lake"];
+          break;
+
+        case "clearwater-port":
+          infoStr = genInfo["a-clearwater-port"];
+          break;
+
+        case "corrupted-forest":
+          infoStr = genInfo["a-corrupted-forest"];
+          break;
+
+        case "crater":
+          infoStr = genInfo["a-crater"];
+          break;
+
+        case "crookshaw":
+          infoStr = genInfo["a-crookshaw"];
+          break;
+
+        case "fapaa":
+          infoStr = genInfo["a-fapaa"];
+          break;
+
+        case "fort-kayne":
+          infoStr = genInfo["a-fort-kayne"];
+          break;
+
+        case "frozen-mountains":
+          infoStr = genInfo["a-frozen-mountains"];
+          break;
+
+        case "gardul":
+          infoStr = genInfo["a-gardul"];
+          break;
+
+        case "glass-desert":
+          infoStr = genInfo["a-glass-desert"];
+          break;
+
+        case "greyreach":
+          infoStr = genInfo["a-greyreach"];
+          break;
+
+        case "ice-fields":
+          infoStr = genInfo["a-ice-fields"];
+          break;
+
+        case "kah-viir-ruins":
+          infoStr = genInfo["a-kah-viir-ruins"];
+          break;
+
+        case "kama ruins":
+          infoStr = genInfo["a-kama-ruins"];
+          break;
+
+        case "koro-island":
+          infoStr = genInfo["a-koro-island"];
+          break;
+
+        case "lake-gorn":
+          infoStr = genInfo["a-lake-gorn"];
+          break;
+
+        case "living-swamp":
+          infoStr = genInfo["a-living-swamp"];
+          break;
+
+        case "magma-fields":
+          infoStr = genInfo["a-magma-fields"];
+          break;
+
+        case "marred-wastelands":
+          infoStr = genInfo["a-marred-wastelands"];
+          break;
+
+        case "mata":
+          infoStr = genInfo["a-mata"];
+          break;
+
+        case "mount-charr":
+          infoStr = genInfo["a-mount-charr"];
+          break;
+
+        case "mountains-rest":
+          infoStr = genInfo["a-mountains-rest"];
+          break;
+
+        case "pauk":
+          infoStr = genInfo["a-pauk"];
+          break;
+
+        case "port-raynor":
+          infoStr = genInfo["a-port-raynor"];
+          break;
+
+        case "refton":
+          infoStr = genInfo["a-refton"];
+          break;
+
+        case "reimeer":
+          infoStr = genInfo["a-reimeer"];
+          break;
+
+        case "rift-island":
+          infoStr = genInfo["a-rift-island"];
+          break;
+
+        case "river-city":
+          infoStr = genInfo["a-river-city"] + "<img src=\"./images/RiverCity.png\" alt=\"River City\">";
+          break;
+
+        case "shimmer-island":
+          infoStr = genInfo["a-shimmer-island"];
+          break;
+
+        case "shimmer-port":
+          infoStr = genInfo["a-shimmer-port"];
+          break;
+
+        case "sinking-marsh":
+          infoStr = genInfo["a-sinking-marsh"];
+          break;
+
+        case "snow-plains":
+          infoStr = genInfo["a-snow-plains"];
+          break;
+
+        case "tal-bask":
+          infoStr = genInfo["a-tal-bask"];
+          break;
+
+        case "the-trench":
+          infoStr = genInfo["a-the-trench"];
+          break;
+
+        case "untammed-plains":
+          infoStr = genInfo["a-untammed-plains"];
+          break;
+
+        case "wendengald":
+          infoStr = genInfo["a-wendengald"];
+          break;
+
+        case "wyrm-peak":
+          infoStr = genInfo["a-wyrm-peak"];
+          break;
+
+        default:
+          console.log("Invalid Input")
+          break;
+      }
+
+    
+}
