@@ -41,13 +41,14 @@ Creating a fantasy world can be a daunting task whether it be for a game or for 
 
 # Things learned from the Startup JS Section
 - You can make switch case functions with this syntax:
-  `switch(inValue) {
+  `
+  switch(inValue) {
         case "select":
           infoStr = "";
           break;
-          
           default:
           console.log("Invalid Input")
           break;
-      }`
+      }
+      `
  - Use .innerHTML after your dom object call to set the HTML of an element by it's id.
