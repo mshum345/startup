@@ -35,7 +35,7 @@ Creating a fantasy world can be a daunting task whether it be for a game or for 
 - drop-down menus can be created by using the element `<select>`
 - multiple options can be added to a dropdown menu by using the element `<option>`
 
-# Notes
+# Lessons
 https://github.com/webprogramming260/.github/blob/main/profile/instructionTopics.md
 
 # Things learned from the Simon JS Section
@@ -55,3 +55,4 @@ https://github.com/webprogramming260/.github/blob/main/profile/instructionTopics
       }
       `
  - Use .innerHTML after your dom object call to set the HTML of an element by it's id.
+ - You must add your <script> tags at the bottom of your HTML documents
